@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/463c65a1-29e6-4165-a82e-d840d9f66e52
+
 # Drowsiness Detection System
 
 This project is a real-time drowsiness detection system using computer vision and machine learning. The system leverages OpenCV, Haar cascades for facial and eye detection, and a YOLO model to classify the state of the eyes (open or closed) to determine drowsiness. If the eyes are detected as closed for a prolonged period, an alarm sound is triggered.
